@@ -76,4 +76,3 @@ echo "Successful checks: $SUCCESS"
 echo "Failed checks:     $FAILED"
 echo "Not applicable:    $NOT_APPLICABLE"
 echo "Evidence directory: $OUTPUT_DIR"
-
