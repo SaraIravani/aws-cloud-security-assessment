@@ -1,12 +1,13 @@
-# AWS Cloud Security Assessment
+AWS Cloud Security Assessment
+<p align="center">   <img src="assets/aws-cloud-security-assessment.png" alt="AWS Cloud Security Assessment" width="100%"> </p>
 
-\<p align="center">
-&#x20; \<img src="assets/aws-cloud-security-assessment.png" alt="AWS Cloud Security Assessment" width="100%">
-\</p>
+<p align="center">   <strong>Assess. Analyze. Improve. Secure.</strong> </p>
 
-\<p align="center">   \<strong>Assess. Analyze. Improve. Secure.\</strong> \</p>
+<p align="center">
+  AWS Security | IAM | S3 | CloudTrail | Terraform | AWS CLI | Bash
+</p>
 
-\<p align="center">   AWS Security | IAM | S3 | CloudTrail | Terraform | AWS CLI | Bash \</p>
+
 
 ## Project Overview
 
