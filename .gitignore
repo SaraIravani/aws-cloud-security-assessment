@@ -42,3 +42,30 @@ terraform.rc
 # Optional: ignore plan files saved before destroying Terraform configuration
 # Uncomment the line below if you want to ignore planout files.
 # planout
+# Credentials and local configuration
+.env
+*.pem
+*.key
+.aws/
+# Terraform plan files
+*.tfplan
+tfplan
+# Raw AWS assessment evidence - never commit account data
+evidence/*
+!evidence/.gitkeep
+
+# Terraform local data and state
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+*.tfplan
+crash.log
+crash.*.log
+
+# Terraform override files
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
